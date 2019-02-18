@@ -1,0 +1,11 @@
+C:\Users\paulo\source\repos\Previsao\Previsao\bin\Debug\Previsao.exe.config
+C:\Users\paulo\source\repos\Previsao\Previsao\bin\Debug\Previsao.exe
+C:\Users\paulo\source\repos\Previsao\Previsao\bin\Debug\Previsao.pdb
+C:\Users\paulo\source\repos\Previsao\Previsao\bin\Debug\Newtonsoft.Json.dll
+C:\Users\paulo\source\repos\Previsao\Previsao\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\paulo\source\repos\Previsao\Previsao\bin\Debug\Newtonsoft.Json.xml
+C:\Users\paulo\source\repos\Previsao\Previsao\obj\Debug\Previsao.csprojAssemblyReference.cache
+C:\Users\paulo\source\repos\Previsao\Previsao\obj\Debug\Previsao.csproj.CoreCompileInputs.cache
+C:\Users\paulo\source\repos\Previsao\Previsao\obj\Debug\Previsao.csproj.CopyComplete
+C:\Users\paulo\source\repos\Previsao\Previsao\obj\Debug\Previsao.exe
+C:\Users\paulo\source\repos\Previsao\Previsao\obj\Debug\Previsao.pdb
